@@ -51,10 +51,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="-611.33239"
-     inkscape:cy="-110.16869"
+     inkscape:cx="-1122.7508"
+     inkscape:cy="1809.8313"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="876"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,8 +97,8 @@
        id="rect5035"
        width="2698.3196"
        height="4038.9939"
-       x="-1125.7139"
-       y="-1077.4435" />
+       x="2650.2861"
+       y="-365.44348" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -174,9 +174,9 @@
        inkscape:randomized="0"
        d="m 776.0242,437.66083 -493.18149,284.73846 -493.18149,-284.73846 1e-5,-569.47693 493.18148,-284.73847 493.18149,284.73847 z"
        transform="matrix(2.2362376,0,0,2.2362376,-420.69491,543.51427)"
-       inkscape:export-filename="/home/ropes/Pictures/gimping/pdxgo/neededging.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-filename="/home/ropes/Pictures/gimping/pdxgo/PDXGolang.png"
+       inkscape:export-xdpi="70.672173"
+       inkscape:export-ydpi="70.672173" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:1;display:inline"
@@ -193,9 +193,9 @@
        inkscape:randomized="0"
        d="m 776.0242,437.66083 -493.18149,284.73846 -493.18149,-284.73846 1e-5,-569.47693 493.18148,-284.73847 493.18149,284.73847 z"
        transform="matrix(1.9302213,0,0,1.9302213,-333.57451,585.48977)"
-       inkscape:export-filename="/home/ropes/Pictures/gimping/pdxgo/neededging.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-filename="/home/ropes/Pictures/gimping/pdxgo/PDXGolang.png"
+       inkscape:export-xdpi="70.672173"
+       inkscape:export-ydpi="70.672173" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2845,7 +2845,10 @@ AAAAAAAANAlNDQAAAAAAAADQJDQ1AAAAAAAAAECT0NQAAAAAAAAAAE1CUwMAAAAAAAAANOn/ALzw
     <g
        id="g3108"
        transform="matrix(1.3278703,0,0,1.3278703,3477.7564,1170.1726)"
-       clip-path="url(#clipPath4078)">
+       clip-path="url(#clipPath4078)"
+       inkscape:export-filename="/home/ropes/Pictures/gimping/pdxgo/PDXGolang.png"
+       inkscape:export-xdpi="70.672173"
+       inkscape:export-ydpi="70.672173">
       <path
          style="fill:#f6f6f6"
          d="m -2997,-260.63782 0,-647 538.5,0 538.5,0 0,647 0,647 -538.5,0 -538.5,0 0,-647 z"
