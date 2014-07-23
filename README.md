@@ -1,4 +1,4 @@
-PDX-Go-Icon-Assets
-==================
+PDXGo-Icons
+===========
 
-Making the Assets of the PDXGo group icon public so people can modify and copy as desired.
+Assets for creating the current PDXGo icon used on Twitter and Meetup.  Feel free to use assets extraced from the incredibly cute gopher for your own iconography/memos/etc!
