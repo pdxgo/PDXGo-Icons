@@ -6,3 +6,5 @@ Assets for creating the current PDXGo icon used on Twitter and Meetup.  Feel fre
 [Renee French](http://reneefrench.blogspot.com/) created the original gopher which has been edited many times to create the current PDX logo.  All credit for the cute gopher iconography goes to Renee!  
 
 Golang wrote a [blog post](http://blog.golang.org/gopher) which covers the entire history of the Gopher.  
+
+Outline of Portland Oregon sign from [Portland Urban Sketchers](http://workshops.urbansketchers.org/2012/04/location-sketching-in-watercolor.html), significant editing.
